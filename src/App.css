@@ -15,5 +15,5 @@
 }
 
 .btn-primary {
-    --bs-btn-bg: var(--bs-blue-bg);
+    --bd-btn-bg: blue;
 }
